@@ -1,0 +1,10 @@
+F:\Tecent\CODE\BaiTapThucHanhBuoi1_2312732\BaiTap2\bin\Debug\BaiTap2.exe.config
+F:\Tecent\CODE\BaiTapThucHanhBuoi1_2312732\BaiTap2\bin\Debug\BaiTap2.exe
+F:\Tecent\CODE\BaiTapThucHanhBuoi1_2312732\BaiTap2\bin\Debug\BaiTap2.pdb
+F:\Tecent\CODE\BaiTapThucHanhBuoi1_2312732\BaiTap2\obj\Debug\BaiTap2.csproj.AssemblyReference.cache
+F:\Tecent\CODE\BaiTapThucHanhBuoi1_2312732\BaiTap2\obj\Debug\BaiTap2.Form1.resources
+F:\Tecent\CODE\BaiTapThucHanhBuoi1_2312732\BaiTap2\obj\Debug\BaiTap2.Properties.Resources.resources
+F:\Tecent\CODE\BaiTapThucHanhBuoi1_2312732\BaiTap2\obj\Debug\BaiTap2.csproj.GenerateResource.cache
+F:\Tecent\CODE\BaiTapThucHanhBuoi1_2312732\BaiTap2\obj\Debug\BaiTap2.csproj.CoreCompileInputs.cache
+F:\Tecent\CODE\BaiTapThucHanhBuoi1_2312732\BaiTap2\obj\Debug\BaiTap2.exe
+F:\Tecent\CODE\BaiTapThucHanhBuoi1_2312732\BaiTap2\obj\Debug\BaiTap2.pdb

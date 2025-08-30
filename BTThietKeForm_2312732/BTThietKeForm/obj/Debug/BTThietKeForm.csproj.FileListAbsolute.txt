@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\BTThietKeForm_2312732\BTThietKeForm\bin\Debug\BTThietKeForm.exe.config
+C:\Users\Admin\Desktop\BTThietKeForm_2312732\BTThietKeForm\bin\Debug\BTThietKeForm.exe
+C:\Users\Admin\Desktop\BTThietKeForm_2312732\BTThietKeForm\bin\Debug\BTThietKeForm.pdb
+C:\Users\Admin\Desktop\BTThietKeForm_2312732\BTThietKeForm\obj\Debug\BTThietKeForm.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\BTThietKeForm_2312732\BTThietKeForm\obj\Debug\BTThietKeForm.frmBai1.resources
+C:\Users\Admin\Desktop\BTThietKeForm_2312732\BTThietKeForm\obj\Debug\BTThietKeForm.frmBai2.resources
+C:\Users\Admin\Desktop\BTThietKeForm_2312732\BTThietKeForm\obj\Debug\BTThietKeForm.frmBai3.resources
+C:\Users\Admin\Desktop\BTThietKeForm_2312732\BTThietKeForm\obj\Debug\BTThietKeForm.frmBai4.resources
+C:\Users\Admin\Desktop\BTThietKeForm_2312732\BTThietKeForm\obj\Debug\BTThietKeForm.frmChinh.resources
+C:\Users\Admin\Desktop\BTThietKeForm_2312732\BTThietKeForm\obj\Debug\BTThietKeForm.Properties.Resources.resources
+C:\Users\Admin\Desktop\BTThietKeForm_2312732\BTThietKeForm\obj\Debug\BTThietKeForm.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\BTThietKeForm_2312732\BTThietKeForm\obj\Debug\BTThietKeForm.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\BTThietKeForm_2312732\BTThietKeForm\obj\Debug\BTThietKeForm.exe
+C:\Users\Admin\Desktop\BTThietKeForm_2312732\BTThietKeForm\obj\Debug\BTThietKeForm.pdb
